@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0c82"],{"42f4":function(e,n,s){"use strict";s.r(n);var t=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,n=e.$createElement,s=e._self._c||n;return s("main",{staticClass:"col-md-9"},[s("div",{staticClass:"row"},[s("h1",[e._v("This is an cookies page")])])])}],a={name:"cookies",components:{}},i=a,o=s("2877"),l=Object(o["a"])(i,t,c,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0c0c82.eb0be7fc.js.map
